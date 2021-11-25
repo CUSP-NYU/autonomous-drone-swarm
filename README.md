@@ -33,6 +33,8 @@ Daisuke Nakanishi, Gurpreet Singh, Kshitij Chandna
 ├── .gitignore
 └── README.md
 ~~~
+You can replicate the experiments following Jupyter Notebook in the `experiment` folder.  
+([Google Colaboratory](https://colab.research.google.com/?utm_source=scs-index) is recommended.)
 
 ## Methods
 ### Environment
