@@ -3,7 +3,7 @@
 <table align="center">
 <tr>
 <th>Efficient Case</th>
-<th>Reduncant Case</th>
+<th>Redundant Case</th>
 <th>Unsuccessful Case</th>
 </tr>
 <tr>
